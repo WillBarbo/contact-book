@@ -1,0 +1,9 @@
+<%= exemplo %> ---->>> = (igual) é mais "seguro", deixa escapar caracteres
+
+<%- exemplo %> ---->>> - (menos) não deixa escapar catacteres
+
+<% exemplo %>  ---->>> sem sinal, controle de fluxo (if, for...)
+
+<%# exemplo %> ---->>> # (hashtag), para afzer comentários
+
+<%- include('CAMINHO/ARQUIVO') %> ---->>> para incluir arquivos 
